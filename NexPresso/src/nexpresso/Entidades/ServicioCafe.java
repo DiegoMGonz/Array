@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Lenovo
  */
 public class ServicioCafe {
-    
+    String gstin;
     Scanner scr = new Scanner(System.in);
     Cafetera cf = new Cafetera();
     
